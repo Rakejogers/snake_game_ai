@@ -34,7 +34,7 @@ pip install torch numpy matplotlib pygame ipython
 ```
 
 ## Usage
-Simple run the agent file to start the training and gameplay
+Simply run the agent file to start the training and gameplay
 ```bash
 python agent.py
 ```
