@@ -1,9 +1,10 @@
 # Snake Game AI
 
-![Snake Game Screenshot](path_to_your_image1.png)
-![Plotted Results](path_to_your_image2.png)
+Snake Game            |  Plotted Results
+:-------------------------:|:-------------------------:
+![Snake Game Screenshot](https://github.com/user-attachments/assets/e999b42c-54c9-4336-8e4b-8a64b2930c64)  |  ![Plotted Results](https://github.com/user-attachments/assets/256f2924-e225-4c09-bec4-88031f2fe9c6)
 
-> An AI-powered Snake game using PyTorch for training a neural network to play the game.
+> An AI-powered snake game using PyTorch to train a neural network to play the game.
 
 ## Overview
 
@@ -29,7 +30,7 @@ To run this project locally, you will need Python and the following dependencies
 Install the required packages using pip:
 
 ```bash
-pip install torch numpy matplotlib pygame
+pip install torch numpy matplotlib pygame ipython
 ```
 
 ## Usage
@@ -41,10 +42,12 @@ python agent.py
 ## Video Demo
 Watch the AI play Snake
 
+https://github.com/user-attachments/assets/a6276632-c8b6-42fc-be40-88b21719186f
+
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for any changes or suggestions.
 
 ## Acknowledgements
 The game is built using the Pygame library.
 AI training based on deep Q-learning techniques.
-This was made with help from a free youtube course from FreeCodeCamp
+This was made with help from a free YouTube course from FreeCodeCamp
