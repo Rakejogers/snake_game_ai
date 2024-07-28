@@ -42,7 +42,7 @@ python agent.py
 ## Video Demo
 Watch the AI play Snake
 
-https://github.com/user-attachments/assets/a6276632-c8b6-42fc-be40-88b21719186f
+https://github.com/user-attachments/assets/33a40276-2d0d-4505-90f2-0f6bad5b2282
 
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for any changes or suggestions.
